@@ -1,0 +1,1 @@
+// value of B is some garbage value and value of c is 200
